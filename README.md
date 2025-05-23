@@ -23,7 +23,7 @@
 - 🎯 Five-dimensional evaluation: Fidelity (Kolmogorov-Smirnov Test), Utility (ML Performance), Privacy (DCR), Synthesis (Novelty), Temporal Correlation (Autocorrelation)  
 
 ## Architecture Overview  
-![System Architecture](https://via.placeholder.com/800x400.png?text=GAN-Transformer+%2B+Diffusion+Model+Architecture)  
+![System Architecture](gan_lstm_arch.png)  
 *Dual-model architecture enabling high-fidelity generation and privacy-preserving synthesis*
 
 ## Installation  
